@@ -6,7 +6,7 @@ Detector de placas
 
 ## Instalación
 
-Necesita intalar algunas librerias como las mostradas en el archivo .txt para poder ejecutar.
+Necesita intalar algunas librerias como las mostradas en el archivo rqueriments.txt para poder ejecutar.
 
 ## Uso
 
@@ -17,9 +17,6 @@ tener y agregarlo a la ruta.
 
  - Derechos de yolov
 
-## Contribuciones
 
 
-
-## Contacto
 
